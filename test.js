@@ -1,6 +1,6 @@
 const start = async function() {
-    const lib = require('./lib/getGameResults.js');
-    var res = await lib.getGameResults("cf3c538f");
+    const lib = require('./index.js');
+    var res = await lib.handler({vid: "xxx", pid: "yyy"});
     console.log(res)
 }
 
