@@ -1,12 +1,12 @@
+const lib = require('./index.js');
+
 const start = async function() {
-    const lib = require('./index.js');
-    console.log(lib)
-    var res = await lib.handler({vid: "xxx", pid: "yyy"});
+    var res = await lib.retrieveGameResults({vid: "xxx", pid: "yyy"});
+    console.log(res)
 }
 
 const testUpdateGameId = async function(gameId) {
-    const lib = require('./handlers/updateGameId.js');
-    var res = await lib.handler({vid: "xxx", pid: "yyy", gameId: gameId});
+    var res = await lib.updateGameId({vid: "1a86", pid: "7523", gameId: gameId});
     console.log(res)
 }
 

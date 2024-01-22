@@ -1,6 +1,2 @@
-const handlers = {
-    retrieveGameResults: require('./handlers/retrieveGameResults.js').handler,
-    updateGameId: require('./handlers/updateGameId.js').handler
-}
-
-exports.handler = handlers.retrieveGameResults
+exports.retrieveGameResults = require('./handlers/retrieveGameResults.js').handler;
+exports.updateGameId = require('./handlers/updateGameId.js').handler;

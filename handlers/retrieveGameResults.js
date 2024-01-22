@@ -1,4 +1,5 @@
 exports.handler = async function (event, context) {
+  console.log("=== Executing Function Handler: retrieveGameResults ===")
     var gameId = "cf3c538f";
     var settingsManager = require('../lib/settingsManager.js').settingsManager;
     if (event) 
