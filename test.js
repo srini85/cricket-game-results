@@ -1,5 +1,5 @@
 const lib = require('./index.js');
-const getCurrentBattersLib = require('./lib/getCurrentBatters.js')
+const getLiveStatsLib = require('./lib/getLiveStats.js')
 
 const start = async function() {
     var res = await lib.retrieveGameResults({vid: "xxx", pid: "yyy"});
@@ -12,12 +12,12 @@ const testUpdateGameId = async function(gameId) {
 }
 
 
-const testGetCurrentBatters = function(data) {
+const testgetLiveStats = function(data) {
     var data = require('./data/live_game_1_period_1.json')
-    var res = getCurrentBattersLib.getCurrentBatters(data)
+    var res = getLiveStatsLib.getLiveStats(data)
     console.log(res)
 }
 
 //start()
 //testUpdateGameId("545af13f")
-testGetCurrentBatters()
+testgetLiveStats()
