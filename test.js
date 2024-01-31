@@ -13,7 +13,7 @@ const testUpdateGameId = async function(gameId) {
 
 
 const testGetCurrentBatters = function(data) {
-    var data = require('./data/finished_game_1.json')
+    var data = require('./data/live_game_1_period_1.json')
     var res = getCurrentBattersLib.getCurrentBatters(data)
     console.log(res)
 }
