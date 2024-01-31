@@ -1,7 +1,9 @@
-exports.handler = async function (event, context) {
-  console.log("=== Executing Function Handler: retrieveGameResults ===")
+import settingsManager from '../lib/settingsManager.mjs'
+import getGameResults from '../lib/getGameResults.mjs';
+export default async function (event, context) {
+    console.log("=== Executing Function Handler: retrieveGameResults ===")
     var gameId = "cf3c538f";
-    var settingsManager = require('../lib/settingsManager.js').settingsManager;
+
     if (event) 
     {
       if (event.gameId)
@@ -14,6 +16,6 @@ exports.handler = async function (event, context) {
           }
         }
     }
-    const lib = require('../lib/getGameResults.js')
-    return await lib.getGameResults(gameId);
+    
+    return await getGameResults(gameId);
 }
