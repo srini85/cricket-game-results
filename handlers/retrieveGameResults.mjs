@@ -1,5 +1,5 @@
 import settingsManager from '../lib/settingsManager.mjs'
-import getGameResults from '../lib/getGameResults.mjs';
+import getLiveStats from '../lib/getLiveStats.mjs';
 export default async function (event, context) {
     console.log("=== Executing Function Handler: retrieveGameResults ===")
     var gameId = "cf3c538f";
@@ -14,8 +14,9 @@ export default async function (event, context) {
           if (gameIdResponse && gameIdResponse !== "") {
             gameId = gameIdResponse;
           }
+          console.log(`GameId: ${gameId}`)
         }
     }
     
-    return await getGameResults(gameId);
+    return await getLiveStats(gameId);
 }

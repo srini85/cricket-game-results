@@ -1,4 +1,5 @@
-import lib from './index.mjs'
+//import lib from './index.mjs'
+import getLiveStats from './lib/getLiveStats.mjs';
 
 const start = async function() {
     console.log(lib)
@@ -12,12 +13,11 @@ const testUpdateGameId = async function(gameId) {
 }
 
 
-const testgetLiveStats = function(data) {
-    var data = require('./data/live_game_1_period_1.json')
-    var res = getLiveStatsLib.getLiveStats(data)
+const testgetLiveStats = async function(data) {
+    var res = await getLiveStats(data)
     console.log(res)
 }
 
-start()
+//start()
 //testUpdateGameId("545af13f")
-//testgetLiveStats()
+await testgetLiveStats("caab4afb");
