@@ -1,4 +1,4 @@
-{
+export default {
     "data": {
         "game": {
             "id": "caab4afb",
