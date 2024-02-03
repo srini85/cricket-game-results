@@ -13,11 +13,11 @@ const testUpdateGameId = async function(gameId) {
 }
 
 
-const testgetLiveStats = async function(data) {
+const testGetLiveStats = async function(data) {
     var res = await getLiveStats(data)
     console.log(res)
 }
 
 //start()
 //testUpdateGameId("545af13f")
-await testgetLiveStats("caab4afb");
+await testGetLiveStats("22924ea0");

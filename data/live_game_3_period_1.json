@@ -1,0 +1,1108 @@
+{
+    "data": {
+        "game": {
+            "id": "22924ea0",
+            "status": "LIVE",
+            "updatedAt": "2024-02-03T03:21:31Z",
+            "lastEventRecordedAt": "2024-02-03T03:21:30Z",
+            "statistics": {
+                "home": {
+                    "coinTossWinningResult": {
+                        "preference": "BOWL",
+                        "__typename": "CoinToss"
+                    },
+                    "statistics": [
+                        {
+                            "type": {
+                                "value": "TOTAL_OUTS",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "TOTAL_SCORE",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "TOTAL_OVERS",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "OVER_LIMIT",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        }
+                    ],
+                    "players": [
+                        {
+                            "id": "6cc089f1-6e21-4b9a-b2ed-9d6bf0f77fe0",
+                            "profileID": "6755ddb0-ac26-4005-8367-7f80af74a142",
+                            "name": "Aidan Rowe",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "e36355ba-df08-42c9-be68-f06092352c6f",
+                            "profileID": "9fcb146f-c3b1-4a6e-9ac6-963ba16dfdd7",
+                            "name": "Allan Williams",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "3ff71b0e-e5f5-43ef-89c2-ea8371e712d9",
+                            "profileID": "e696da48-3bb2-431b-a98c-fc67c8082380",
+                            "name": "Ayden Stevens",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 15,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS_OVER",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "OVERS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 8,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "ECONOMY",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1.87,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "WIDES",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 2,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "MAIDENS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "",
+                                    "displayOrder": 2,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "1e09a427-e0e5-4c57-9ee9-5dd855705bc6",
+                            "profileID": "ede38f86-5236-4e79-9f1c-dbe904743e6e",
+                            "name": "Ben Adams",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "63a5628f-efdf-49f5-989b-551773eddc02",
+                            "profileID": "30a36011-0c32-46fa-936e-9542f73c4ef6",
+                            "name": "Benjamin john Mitchell",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "c5a1f736-6e9e-4beb-af52-efb1329a813c",
+                            "profileID": "e2d70ce4-db4c-47df-b661-b0d0f0315a13",
+                            "name": "Justin Baker",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "a89f22e3-e8a3-45eb-919c-9f7d8644f053",
+                            "profileID": "3f1031ff-d408-47d4-b73d-c495cb11a466",
+                            "name": "Lachlan Herrenberg",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS_OVER",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "OVERS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "ECONOMY",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "WICKETS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "",
+                                    "displayOrder": 4,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "30b67a26-2b8d-4335-a6fe-18bcf426fd68",
+                            "profileID": "c4fdae75-007f-4de7-a6c8-52741c0ed3ba",
+                            "name": "Michael Churchward",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CATCHES_AS_FIELDER",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "TOTAL_CATCHES",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "498cca89-4c25-400c-ae42-409965c18069",
+                            "profileID": "2eef639b-67b3-4b34-854b-771937385f24",
+                            "name": "Michael Van der Reyden",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 5,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 24,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS_OVER",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 7,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "OVERS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 10.5,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "ECONOMY",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 2.21,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "MAIDENS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 3,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "",
+                                    "displayOrder": 1,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "97e3d0b2-d116-4e00-a81e-e20aa13d61be",
+                            "profileID": "fcb298e1-142c-4b7d-a996-d8d82a0cff07",
+                            "name": "Nathan Duval",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "f4cfc1ee-8c52-4214-a8d3-92d0fded5a51",
+                            "profileID": "957307ea-95be-4ed8-9f80-62599e90cc7d",
+                            "name": "Nathan Husar",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 3,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "RUNS_OVER",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "OVERS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "ECONOMY",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 3,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "",
+                                    "displayOrder": 3,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "fbac0601-9dcd-4d06-b4cd-d20aedc1ac93",
+                            "profileID": "938c3355-26be-4b63-94a9-6fd5f1d265d4",
+                            "name": "Tim Silk",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        }
+                    ],
+                    "__typename": "GameTeamStatistics"
+                },
+                "away": {
+                    "coinTossWinningResult": null,
+                    "statistics": [
+                        {
+                            "type": {
+                                "value": "TOTAL_OUTS",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "TOTAL_SCORE",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "TOTAL_OVERS",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        },
+                        {
+                            "type": {
+                                "value": "OVER_LIMIT",
+                                "__typename": "GameStatisticConfiguration"
+                            },
+                            "count": 0,
+                            "__typename": "Statistic"
+                        }
+                    ],
+                    "players": [
+                        {
+                            "id": "62b4048e-43fa-4c99-8abc-f0d7770eea5d",
+                            "name": "Benjamin Bradshaw",
+                            "profileID": "53f52a02-0a2f-482f-bdcf-d4eee2ea2d8a",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "94c2ffcb-426e-47e7-a602-a33f15d95bd1",
+                            "name": "Brayden Byrnes",
+                            "profileID": "453f9b75-97fd-49fe-85a8-19194b3fb4c7",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "ac0860c9-9c66-43bd-a6f2-b6ef034b8415",
+                            "name": "Brock HAWLEY",
+                            "profileID": "cbecaef6-d4e0-4328-a32b-a7c5a78b9d7d",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "c83bbe0d-22c3-46d9-8d75-1a011e3e61b0",
+                            "name": "Chris Pound",
+                            "profileID": "b8dba7e9-0733-44c7-9541-54ffaae95a9d",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 40,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 22,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 40,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "TOTAL_RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 22,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "STRIKE_RATE",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 55,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "SIXES",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 1,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "NOT_OUT",
+                                    "displayOrder": 2,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "bfe0cddd-4844-4635-9814-32074f061fdd",
+                            "name": "Craig Shephard",
+                            "profileID": "fe237a65-870b-4594-81c6-5a702171434a",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "b4425d44-9471-4ad5-929b-d1f6d9f530c8",
+                            "name": "Daniel Mcmaster",
+                            "profileID": "bae9c471-3711-4b33-8acc-06099cd75194",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "eed980fb-decd-4846-8e6c-37483705aa92",
+                            "name": "Jack Chapman",
+                            "profileID": "533752ec-2ad2-43e9-8868-5f83cbb4d665",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "0fa88e2b-96cb-4eea-9c3f-b1e8a85355d6",
+                            "name": "Joshua Vicary",
+                            "profileID": "08ca71fe-8dbf-4477-94ae-2607cf33fa04",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 5,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 5,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "STRIKE_RATE",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 0,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "NOT_OUT",
+                                    "displayOrder": 3,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "03c1bddc-c3ce-4011-b824-a312793cf4da",
+                            "name": "Lee Vicary",
+                            "profileID": "d26a6e62-a1e8-4e19-8af0-63e93a95572e",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "0b7453d7-5b83-4713-8e01-c50b132c4288",
+                            "name": "Robert Blake",
+                            "profileID": "90091aa8-75b7-4305-bdd5-0ca933074b94",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [],
+                                    "status": "",
+                                    "displayOrder": null,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        },
+                        {
+                            "id": "73963893-e875-45b8-a224-39f6e09d5ccc",
+                            "name": "Thomas Kaal",
+                            "profileID": "a5a2dbe6-e7a4-4c5d-992f-0ef6db35fb07",
+                            "playerNumber": "",
+                            "periodStatistics": [
+                                {
+                                    "period": {
+                                        "value": "FIRST_INNINGS",
+                                        "__typename": "Period"
+                                    },
+                                    "side": "AWAY",
+                                    "type": "INNINGS",
+                                    "statistics": [
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 80,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "CURRENT_RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 19,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "BALLS_FACED",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 80,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "TOTAL_RUNS",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 19,
+                                            "__typename": "Statistic"
+                                        },
+                                        {
+                                            "type": {
+                                                "value": "STRIKE_RATE",
+                                                "__typename": "GameStatisticConfiguration"
+                                            },
+                                            "count": 23.75,
+                                            "__typename": "Statistic"
+                                        }
+                                    ],
+                                    "status": "OUT",
+                                    "displayOrder": 1,
+                                    "__typename": "PlayerPeriodStatistics"
+                                }
+                            ],
+                            "statistics": [],
+                            "permitType": "",
+                            "__typename": "PlayerStatistics"
+                        }
+                    ],
+                    "__typename": "GameTeamStatistics"
+                },
+                "shared": [
+                    {
+                        "period": {
+                            "value": "FIRST_INNINGS",
+                            "__typename": "Period"
+                        },
+                        "players": [
+                            {
+                                "playerID": "73963893-e875-45b8-a224-39f6e09d5ccc",
+                                "teamID": "a2938ea1-221e-44d0-942f-b9eb11d166d8",
+                                "role": "BATTING",
+                                "__typename": "PlayerSharedStatisticRole"
+                            },
+                            {
+                                "playerID": "30b67a26-2b8d-4335-a6fe-18bcf426fd68",
+                                "teamID": "dac65e37-0093-459e-a298-b18454205bc3",
+                                "role": "FIELDING",
+                                "__typename": "PlayerSharedStatisticRole"
+                            },
+                            {
+                                "playerID": "a89f22e3-e8a3-45eb-919c-9f7d8644f053",
+                                "teamID": "dac65e37-0093-459e-a298-b18454205bc3",
+                                "role": "BOWLING",
+                                "__typename": "PlayerSharedStatisticRole"
+                            }
+                        ],
+                        "dismissalType": "CAUGHT",
+                        "side": "AWAY",
+                        "status": "OUT",
+                        "type": "INNINGS",
+                        "__typename": "SharedPeriodStatistics"
+                    }
+                ],
+                "__typename": "GameStatistics"
+            },
+            "result": {
+                "home": {
+                    "periods": [
+                        {
+                            "period": {
+                                "value": "FIRST_INNINGS",
+                                "__typename": "Period"
+                            },
+                            "statistics": [],
+                            "teamEvents": null,
+                            "type": "INNINGS",
+                            "role": "BOWLING",
+                            "closureStatus": "",
+                            "overtimeSequenceNo": null,
+                            "__typename": "GamePeriodStatistics"
+                        }
+                    ],
+                    "__typename": "GameTeamResult"
+                },
+                "away": {
+                    "periods": [
+                        {
+                            "period": {
+                                "value": "FIRST_INNINGS",
+                                "__typename": "Period"
+                            },
+                            "teamEvents": null,
+                            "statistics": [
+                                {
+                                    "type": {
+                                        "value": "TOTAL_SCORE",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 43,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "RUNS_OVER",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 7,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "TOTAL_OVERS",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 20.5,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "WICKETS_OVER",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 0,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "EXTRA_WIDES",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 2,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "TOTAL_EXTRAS",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 2,
+                                    "__typename": "Statistic"
+                                },
+                                {
+                                    "type": {
+                                        "value": "TOTAL_OUTS",
+                                        "__typename": "GameStatisticConfiguration"
+                                    },
+                                    "count": 1,
+                                    "__typename": "Statistic"
+                                }
+                            ],
+                            "type": "INNINGS",
+                            "role": "BATTING",
+                            "closureStatus": "",
+                            "overtimeSequenceNo": null,
+                            "__typename": "GamePeriodStatistics"
+                        }
+                    ],
+                    "__typename": "GameTeamResult"
+                },
+                "currentPeriod": {
+                    "value": "FIRST_INNINGS",
+                    "primarySide": "AWAY",
+                    "__typename": "CurrentPeriod"
+                },
+                "__typename": "GameResult"
+            },
+            "break": "",
+            "latestEvent": null,
+            "summaries": [],
+            "clock": {
+                "overtimeSequenceNo": 0,
+                "period": "",
+                "periodValue": "",
+                "status": "RESUME",
+                "time": "",
+                "lastUpdatedAt": null,
+                "__typename": "GameClock"
+            },
+            "__typename": "Game"
+        }
+    }
+}
