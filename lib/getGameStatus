@@ -1,6 +1,0 @@
-exports.getGameStatus = function(payload) {
-    if (!payload?.data?.game?.status) 
-        return null;
-    
-    return payload?.data?.game?.status;
-}
