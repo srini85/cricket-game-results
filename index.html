@@ -84,7 +84,9 @@
                 $.ajax({
                     type: "POST",
                     url: "https://zg1emv3wlf.execute-api.us-east-1.amazonaws.com/test/livescore/gameupdate",
-                    data: {"pid": $("#pid").val(), "vid": $("#vid").val(), "gameId": $("#gameId").val()},
+                    data: JSON.stringify({"pid": $("#pid").val(), "vid": $("#vid").val(), "gameId": $("#gameId").val()}),
+                    contentType:"application/json; charset=utf-8",
+                    dataType:"json",
                     success: () => alert("updated"),
                 });
             });
