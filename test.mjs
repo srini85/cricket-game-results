@@ -1,6 +1,6 @@
 //import lib from './index.mjs'
 import getLiveStats from './lib/getLiveStats.mjs';
-import sampleData from './data/live_game_2_period_2-1.js'
+import sampleData from './data/live_game_4_period_1.js'
 const start = async function() {
     console.log(lib)
     var res = await lib.retrieveGameResults({vid: "xxx", pid: "yyy"});
